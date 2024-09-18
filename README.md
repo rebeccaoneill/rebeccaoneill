@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 My Story
+--------------------------------------------------------
+Hi I'm Rebecca O'Neill, a software developer based in London. 
+
+After five years of working in innovation for consumer goods I decided to take a big step and explore the world of coding. I've recently completed a bootcamp with Le Wagon in London to jumpstart my career as a software developer, and am looking for my first role.
+
+I'm a fast learner, eager to learn, well versed in agile ways of working and looking to use my problem solving skills from my previous life in this new world of tech.
 
 <!--
 **rebeccaoneill/rebeccaoneill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
